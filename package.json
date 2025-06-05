@@ -1,0 +1,16 @@
+{
+  "name": "mgufo",
+  "version": "2.0.4",
+  "description": "hello world",
+  "main": "index.js",
+  "author": "mgufo",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
+  
